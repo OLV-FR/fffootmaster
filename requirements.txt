@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scipy
+xgboost
+requests  # Pour API
